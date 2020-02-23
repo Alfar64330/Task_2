@@ -18,7 +18,6 @@ int main()
      scanf("%lf",&a);
      b=a*i+x*b;
    }
-   b=b/x;
 
    printf("Iskomoe zhachenie = %f",b);
 
